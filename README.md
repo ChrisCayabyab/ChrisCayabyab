@@ -10,14 +10,17 @@ Bachelor of Science in Computer Science 2021 - Present
 
 
 ## Tech Achievements 
----Design Patterns---
+
+# ---Design Patterns---
+
 -https://github.com/ChrisCayabyab/visitorPatternLab
 -https://github.com/ChrisCayabyab/StatePattern
 -https://github.com/ChrisCayabyab/StrategyPattern
 -https://github.com/ChrisCayabyab/BuilderPattern
 -https://github.com/ChrisCayabyab/decoratorPattern 
 
----PowerBI Reports---
+# ---PowerBI Reports---
+
 -https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D
 -https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D
 
