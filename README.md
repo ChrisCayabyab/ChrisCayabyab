@@ -26,4 +26,4 @@
 - **Data Visualization Tools**: PowerBI Desktop, Tableau Public
 - **Programming Languages**: Java, Python, CSS, HTML, JavaScript
 - **DBMS**: DB2
-- **Dev Tools**: Lucidchart, Eclipse, Visual Studio
+- **Dev Tools**: Lucidchart, Eclipse, Visual Studio Code
