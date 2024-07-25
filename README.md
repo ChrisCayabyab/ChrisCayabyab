@@ -19,8 +19,8 @@
 - [Decorator Pattern](https://github.com/ChrisCayabyab/decoratorPattern)
 
 ### PowerBI Reports
-- [PowerBI Report 1](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
-- [PowerBI Report 2](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
+- [PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
+- [PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 
 ## Skill Set
 - **Data Visualization Tools**: PowerBI Desktop, Tableau Public
