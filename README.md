@@ -5,6 +5,7 @@
   - New Era University, 2021 - Present
 
 ## Certifications
+- Google sheets Fundamentals 
 - [Business Analytics with Excel](https://simpli-web.app.link/e/59Z3R8NzTCb) by SimpliLearn (September 7, 2023)
 - [Oracle Cloud Data Management Foundation Certificate Associate](https://drive.google.com/file/d/1BgMwlo6hRPSgL5v5StxWLtQTaOfosuOq/view?usp=sharing) by Oracle (November 28, 2022)
 - [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12) by Oracle (November 22, 2022)
