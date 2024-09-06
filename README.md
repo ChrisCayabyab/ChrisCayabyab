@@ -28,3 +28,8 @@
 - **Programming Languages**: Java, Python, CSS, HTML, JavaScript
 - **DBMS**: DB2
 - **Dev Tools**: Lucidchart, Eclipse, Visual Studio Code
+
+## DESIGNING TOOLS
+- **Canva**
+- **Da Vinci**
+- **Adobe Premiere Pro**
