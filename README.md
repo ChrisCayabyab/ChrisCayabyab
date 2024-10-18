@@ -11,6 +11,7 @@
 - [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12) by Oracle (November 22, 2022)
 - [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) by Cognitive Class (November 6, 2022)
 - [Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url)
+- Introduction to IoT and Digital Transformation
 
 ## Tech Achievements
 ### Design Patterns
