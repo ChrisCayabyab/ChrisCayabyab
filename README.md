@@ -10,7 +10,8 @@
 - [Oracle Cloud Data Management Foundation Certificate Associate](https://drive.google.com/file/d/1BgMwlo6hRPSgL5v5StxWLtQTaOfosuOq/view?usp=sharing) by Oracle (November 28, 2022)
 - [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12) by Oracle (November 22, 2022)
 - [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) by Cognitive Class (November 6, 2022)
-- [Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url) by Cisco (October 17, 2024)
+- [Foundations of Purple Teaming](https://www.credly.com/badges/02d1d798-660e-4004-b7df-2bfcabac9708/public_url) by AttackIQ Academy (October 10,2024)
 - Introduction to IoT and Digital Transformation
 
 ## Tech Achievements
