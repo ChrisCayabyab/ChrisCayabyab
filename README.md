@@ -14,6 +14,7 @@
 - [Foundations of Purple Teaming](https://www.credly.com/badges/02d1d798-660e-4004-b7df-2bfcabac9708/public_url) by AttackIQ Academy (October 21,2024)
 - [Foundations of Breach & Attack Simulation](https://www.credly.com/badges/17da4a5e-c838-4bf6-9b5b-63619e982030) by AttackIQ Academy (October 22,2024)
 - [Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/0be52ef5-99f8-4e16-8daa-9ff6d1c9f373) by AttackIQ Academy (October 23,2024)
+- [Project Management](https://olympus.mygreatlearning.com/courses/66443/certificate)
 
 
 ## Tech Achievements
