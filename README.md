@@ -16,7 +16,7 @@
 - [Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/0be52ef5-99f8-4e16-8daa-9ff6d1c9f373) by AttackIQ Academy (October 23,2024)
 - [Project Management](https://olympus.mygreatlearning.com/courses/66443/certificate) by Great Learning (October 24,2024)
 - [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/0efc79128de369d2192d00bdbdaa66c71fa5957a?raw=1) by DataCamp (October 29,2024)
-- [Intermediate Python]() by DataCamp (November 1,2024)
+- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/56dc434820aec4c220393d49f95ecb0d861d2a36) by DataCamp (November 1,2024)
 
 ## Tech Achievements
 ### Design Patterns
