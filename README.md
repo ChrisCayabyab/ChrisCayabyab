@@ -41,4 +41,3 @@
 ## DESIGNING TOOLS
 - **Canva**
 - **Da Vinci**
-- **Adobe Premiere Pro**
