@@ -41,3 +41,8 @@
 ## DESIGNING TOOLS
 - **Canva**
 - **Da Vinci**
+
+## Projects
+### Spreadsheet
+![Timeline 1 (2)](https://github.com/user-attachments/assets/d9550e06-df94-4631-9b27-5f35f117a4a3)
+
