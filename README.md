@@ -19,6 +19,7 @@
 - [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/56dc434820aec4c220393d49f95ecb0d861d2a36) by DataCamp (November 1,2024)
 - [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1)  by DataCamp (November 2,2024)
 - [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/4f37e1e844a15103265c43ac1871afab115124af?raw=1) by DataCamp (November 3,2024)
+- [Joining Data in SQL]
 
 ## Tech Achievements
 ### Design Patterns
