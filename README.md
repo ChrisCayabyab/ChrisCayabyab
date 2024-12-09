@@ -21,6 +21,7 @@
 - [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/4f37e1e844a15103265c43ac1871afab115124af?raw=1) by DataCamp (November 3,2024)
 - [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/0c41e47234c2a2262e1b32f35c651e8406af5b88?raw=1) by DataCamp (November 20,2024)
 - [Data Manipulation in SQL]
+- [Introduction to Powe BI]
 
 #### Thesis
 - ICITE Thesis Conference 
