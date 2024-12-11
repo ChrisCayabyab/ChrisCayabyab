@@ -24,7 +24,9 @@
 - [Introduction to Powe BI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1) by DataCamp (December 12,2024)
 
 #### Thesis
-- ICITE Thesis Conference 
+- [ICITE Thesis Certification of Appreciation](https://drive.google.com/file/d/1xJ1Hh19hw6iRrrNsP1a4gT6_hP7Z4X3z/view?usp=drive_link)
+- [ICITE Thesis Certification of Attendance](https://drive.google.com/file/d/1XjSb0SuwYEHV_g7tGg0XBODoNIvuRNbX/view?usp=drive_link)
+- [ICITE Thesis Certification of Appearance](https://drive.google.com/file/d/1NO540wCuy5VMfmL7ESOrp1U8cf-PAOGn/view?usp=drive_link)
 
 ## Tech Achievements
 ### Design Patterns
