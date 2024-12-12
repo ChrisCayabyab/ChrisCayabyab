@@ -21,7 +21,8 @@
 - [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/4f37e1e844a15103265c43ac1871afab115124af?raw=1) by DataCamp (November 3,2024)
 - [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/0c41e47234c2a2262e1b32f35c651e8406af5b88?raw=1) by DataCamp (November 20,2024)
 - [Data Manipulation in SQL]
-- [Introduction to Powe BI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1) by DataCamp (December 12,2024)
+- [Introduction to PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1) by DataCamp (December 12,2024)
+- [Data Visualization in PowerBI]
 
 #### Thesis
 - [ICITE Thesis Certification of Appreciation](https://drive.google.com/file/d/1xJ1Hh19hw6iRrrNsP1a4gT6_hP7Z4X3z/view?usp=drive_link)
