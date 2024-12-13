@@ -22,7 +22,7 @@
 - [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/0c41e47234c2a2262e1b32f35c651e8406af5b88?raw=1) by DataCamp (November 20,2024)
 - [Data Manipulation in SQL]
 - [Introduction to PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1) by DataCamp (December 12,2024)
-- [Data Visualization in PowerBI]
+- [Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) by DataCamp (December 13,2024)
 
 #### Thesis
 - [ICITE Thesis Certification of Appreciation](https://drive.google.com/file/d/1xJ1Hh19hw6iRrrNsP1a4gT6_hP7Z4X3z/view?usp=drive_link)
