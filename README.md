@@ -28,7 +28,7 @@
 - [ICITE Thesis Certification of Appreciation](https://drive.google.com/file/d/1xJ1Hh19hw6iRrrNsP1a4gT6_hP7Z4X3z/view?usp=drive_link)
 - [ICITE Thesis Certification of Attendance](https://drive.google.com/file/d/1XjSb0SuwYEHV_g7tGg0XBODoNIvuRNbX/view?usp=drive_link)
 - [ICITE Thesis Certification of Appearance](https://drive.google.com/file/d/1NO540wCuy5VMfmL7ESOrp1U8cf-PAOGn/view?usp=drive_link)
-- [ICITE Thesis Certification of Recognition](https://drive.google.com/file/d/1NO540wCuy5VMfmL7ESOrp1U8cf-PAOGn/view?usp=drive_link)
+- [ICITE Thesis Certification of Recognition](https://drive.google.com/file/d/1RqoHq5P3R5Mfo-CIHl-8A70ndWUdmxlh/view?usp=drive_link)
 
 ## Tech Achievements
 ### Design Patterns
