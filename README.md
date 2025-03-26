@@ -55,7 +55,7 @@
 ## Projects
 ### Spreadsheet
 [![2025-03-20 23-44-25](https://github.com/user-attachments/assets/804227d4-4cff-4547-b108-9227d1779272)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
-![Timeline 1 (3)](https://github.com/user-attachments/assets/69647ec1-a5dd-4454-b4d8-72e8f9c6b71a)
+[![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
 
 
 
