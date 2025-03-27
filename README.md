@@ -5,6 +5,7 @@
   - New Era University, 2021 - Present
 
 ## Certifications
+- [The Complete Foundation Stock Tradin Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) by BloomTrading (March 27, 2025)
 - [Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) by DataCamp (December 13, 2024)
 - [Introduction to PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1) by DataCamp (December 12, 2024)
 - [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/0c41e47234c2a2262e1b32f35c651e8406af5b88?raw=1) by DataCamp (November 20, 2024)
