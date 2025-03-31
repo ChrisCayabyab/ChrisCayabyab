@@ -5,6 +5,7 @@
   - New Era University, 2021 - Present
 
 ## Certifications
+- [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/completed/statement-of-accomplishment/course/46f815accf49624ac4dd05794b0a2be7013f2d6f) by DataCamp (March 29, 2025)
 - [Data Manipulation in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/1dcf0cb5c6919a0bc9e59463b285ce2e8a55f562) by DataCamp (March 28, 2025)
 - [The Complete Foundation Stock Tradin Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) by BloomTrading (March 27, 2025)
 - [Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) by DataCamp (December 13, 2024)
