@@ -5,6 +5,7 @@
   - New Era University, 2021 - Present
 
 ## Certifications
+- [Introduction to Statistics](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea) by DataCamp (April 2, 2025)
 - [Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/6d3e55da08ba21a286f25ccf630090216aec3dc5) by DataCamp (April 1, 2025)
 - [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/completed/statement-of-accomplishment/course/46f815accf49624ac4dd05794b0a2be7013f2d6f) by DataCamp (March 31, 2025)
 - [Data Manipulation in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/1dcf0cb5c6919a0bc9e59463b285ce2e8a55f562) by DataCamp (March 28, 2025)
