@@ -5,6 +5,7 @@
   - New Era University, 2021 - Present
 
 ## Certifications
+- [Data-Driven Decision Making in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/7013410a72697d83ce8e3408222065d4a46484f0) by DataCamp (April 4, 2025)
 - [Exploratory Data Analysis in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/87a99787c0c83b5286f7b3e3b870d47123f859bf) by DataCamp (April 3, 2025)
 - [Introduction to Statistics](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea) by DataCamp (April 2, 2025)
 - [Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/6d3e55da08ba21a286f25ccf630090216aec3dc5) by DataCamp (April 1, 2025)
