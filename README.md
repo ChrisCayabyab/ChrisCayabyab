@@ -5,6 +5,7 @@
   - New Era University, 2021 - Present
 
 ## Certifications
+- [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/16561579d69c78415431697ae9939500d6012ad7) by DataCamp (April 9, 2025)
 - [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cdaa38764298bf95ad180c3ee1ac080f3de76ac3) by DataCamp (April 8, 2025)
 - [Data Communication Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab60c562bdca0e2d61e365afb5672dc36f38a137) by DataCamp (April 8, 2025)
 - [Understanding Data Visualization](https://www.datacamp.com/completed/statement-of-accomplishment/course/197fa9edccfb010801d521c02cd413432c0b17e4) by DataCamp (April 7, 2025)
