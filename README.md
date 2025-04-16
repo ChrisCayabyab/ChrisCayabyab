@@ -7,6 +7,7 @@
 ## Certifications
 
 ### ChatGPT & Artificial Intelligence
+- [Understanding Machine Learning](https://www.datacamp.com/statement-of-accomplishment/course/ed52bb1f70dd72f23c9be80f2c63bf79de04355a?raw=1) by DataCamp (April 16,2025)
 - [Understanding ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cff696ba7d5483ef48ccdb4f0a11584d8aad7fb3) by DataCamp (April 15, 2025)
 - [Understanding Artificical Intelligence](https://www.datacamp.com/completed/statement-of-accomplishment/course/d5b036cfcfa3218780fad6f4d51bb5eaa3e9bab0) by DataCamp(April 14, 2025)
 - [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cdaa38764298bf95ad180c3ee1ac080f3de76ac3) by DataCamp (April 8, 2025)
