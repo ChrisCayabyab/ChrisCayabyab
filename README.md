@@ -6,7 +6,7 @@
 
 ## Certifications
 
-### [AI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/db2b5c641e32e38621e64eaa08eb8eb06aea3222)
+### [AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)
 - [AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d74d4401e07948cf5357e8134d4a8e1d7b7f8e8) by DataCamp (April 18, 2025)
 - [Generative AI Concepts](https://www.datacamp.com/statement-of-accomplishment/course/fdc21c71d4716a1a07979a4f77384fb7b3406f16?raw=1) by DataCamp (April 18, 2025)
 - [Large Language Models (LLMs) Concepts](https://www.datacamp.com/statement-of-accomplishment/course/f858f80cc000c09d7a30a06463beb790e9d7da7c?raw=1) by dataCamp (April 17, 2025)
