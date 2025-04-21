@@ -6,6 +6,10 @@
 
 ## Certifications
 
+### Data Literacy
+- [Introduction to Data](https://www.datacamp.com/statement-of-accomplishment/course/b39906e0e92a8ebf23248a00d7ccbff8d88ed29f?raw=1) by DataCamp (April 21, 2025)
+- [Communicating Data Insights](https://www.datacamp.com/statement-of-accomplishment/course/660494645ce8bc47ff458e7a81c289ba38223b34?raw=1) by DataCamp (April 21, 2025)
+
 ### [AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)
 - [AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d74d4401e07948cf5357e8134d4a8e1d7b7f8e8) by DataCamp (April 18, 2025)
 - [Generative AI Concepts](https://www.datacamp.com/statement-of-accomplishment/course/fdc21c71d4716a1a07979a4f77384fb7b3406f16?raw=1) by DataCamp (April 18, 2025)
