@@ -6,7 +6,7 @@
 
 ## Certifications
 
-### Data Literacy
+### [Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)
 - [Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) by DataCamp (April 24, 2025)
 - [Data Storytelling Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4b101b993b0c4de0283d1019fbdb8e075f4ab2bf?raw=1) by DataCamp (April 24, 2025)
 - [Forming Analytical Questions](https://www.datacamp.com/statement-of-accomplishment/course/b31514b05d281cc0023665d4801e7f85c1064281?raw=1) by DataCamp (April 23,2025)
