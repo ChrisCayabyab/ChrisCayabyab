@@ -5,7 +5,8 @@
   - New Era University, 2021 - Present
 
 ## Certifications
-
+### EXCEL
+- [Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) by DataCamp (April 28, 2025)
 ### [Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)
 - [Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) by DataCamp (April 24, 2025)
 - [Data Storytelling Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4b101b993b0c4de0283d1019fbdb8e075f4ab2bf?raw=1) by DataCamp (April 24, 2025)
