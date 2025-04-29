@@ -6,6 +6,7 @@
 
 ## Certifications
 ### EXCEL
+- [Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) by DataCamp
 - [Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) by DataCamp (April 28, 2025)
 ### [Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)
 - [Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) by DataCamp (April 24, 2025)
