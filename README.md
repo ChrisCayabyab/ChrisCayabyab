@@ -6,6 +6,7 @@
 
 ## Certifications
 ### EXCEL
+- [Case Study: Analyzing Customer Churn in Excel](https://www.datacamp.com/statement-of-accomplishment/course/954483c2041ced66c393cb7159d4581c69f70dae?raw=1) by DataCamp (May 2, 2025)
 - [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/e3284717ebd005404844bf077e543186efbbc5fd?raw=1) by DataCamp (May 1, 2025)
 - [Data Visualization in Excel](https://www.datacamp.com/statement-of-accomplishment/course/86101d2bd3c483bd9d64a6329bfa3f5e8e5db0f4?raw=1) by DataCamp (April 30, 2025)
 - [Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) by DataCamp (April 29, 2025)
