@@ -30,7 +30,7 @@
 |[Introduction to Data Literacy](https://www.datacamp.com/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea?raw=1) |DataCamp|April 22, 2025|
 |[Introduction to Data](https://www.datacamp.com/statement-of-accomplishment/course/b39906e0e92a8ebf23248a00d7ccbff8d88ed29f?raw=1) |DataCamp|April 21, 2025|
 |[Communicating Data Insights](https://www.datacamp.com/statement-of-accomplishment/course/660494645ce8bc47ff458e7a81c289ba38223b34?raw=1) |DataCamp|April 21, 2025|
-### |AI FUNDAMENTALS|PROVIDER|DATE|
+|AI FUNDAMENTALS|PROVIDER|DATE|
 |[AI FUNDAMENTALS SKILL TRACK COMPLETION(https://www.datacamp.com/statement-of-accomplishment/track/db2b5c641e32e38621e64eaa08eb8eb06aea3222?raw=1)]|DataCamp|April 18,2025|
 |[AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d74d4401e07948cf5357e8134d4a8e1d7b7f8e8) |DataCamp|April 18,2025|
 |[Generative AI Concepts](https://www.datacamp.com/statement-of-accomplishment/course/fdc21c71d4716a1a07979a4f77384fb7b3406f16?raw=1) |DataCamp|April 18,2025|
