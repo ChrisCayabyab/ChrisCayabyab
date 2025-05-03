@@ -6,7 +6,7 @@
 
 ## 📜CERTIFICATIONS
 |CERTIFICATE|PROVIDER|DATE|
-|:-:|:-:|:-:|
+|:--------------------------------------------------:|:--------------------:|:--------------------:|
 |[Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)|DataCamp|April 24,2025, 2025|
 |[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)|DataCamp|April 18,2025, 2025|
 
