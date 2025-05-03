@@ -4,14 +4,22 @@
 - **Bachelor of Science in Computer Science**
   - New Era University, 2021 - Present
 
-## Certifications
-### EXCEL
-- [Case Study: Analyzing Customer Churn in Excel](https://www.datacamp.com/statement-of-accomplishment/course/954483c2041ced66c393cb7159d4581c69f70dae?raw=1) by DataCamp (May 2, 2025)
-- [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/e3284717ebd005404844bf077e543186efbbc5fd?raw=1) by DataCamp (May 1, 2025)
-- [Data Visualization in Excel](https://www.datacamp.com/statement-of-accomplishment/course/86101d2bd3c483bd9d64a6329bfa3f5e8e5db0f4?raw=1) by DataCamp (April 30, 2025)
-- [Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) by DataCamp (April 29, 2025)
-- [Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) by DataCamp (April 28, 2025)
-### [Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)
+## 📜CERTIFICATIONS
+|CERTIFICATE|PROVIDER|DATE|
+|:-:|:-:|:-:|
+|[EXCEL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/fc812382cb8e4669c71b51ad8efe6e793395849e?raw=1)|DataCamp|May2, 2025|
+|[Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)||DataCamp|April 24,2025, 2025|
+
+## 📜COURSES
+### 
+|EXCEL|PROVIDER|DATE|
+|:-:|:-:|:-:|
+|[Case Study: Analyzing Customer Churn in Excel](https://www.datacamp.com/statement-of-accomplishment/course/954483c2041ced66c393cb7159d4581c69f70dae?raw=1)|DataCamp|May 2, 2025|
+|[Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/e3284717ebd005404844bf077e543186efbbc5fd?raw=1)|DataCamp|May 1, 2025|
+|[Data Visualization in Excel](https://www.datacamp.com/statement-of-accomplishment/course/86101d2bd3c483bd9d64a6329bfa3f5e8e5db0f4?raw=1) |DataCamp|April 30, 2025|
+|[Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) |DataCamp|April 29, 2025|
+|[Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) |DataCamp|April 28, 2025|
+
 - [Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) by DataCamp (April 24, 2025)
 - [Data Storytelling Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4b101b993b0c4de0283d1019fbdb8e075f4ab2bf?raw=1) by DataCamp (April 24, 2025)
 - [Forming Analytical Questions](https://www.datacamp.com/statement-of-accomplishment/course/b31514b05d281cc0023665d4801e7f85c1064281?raw=1) by DataCamp (April 23,2025)
