@@ -27,7 +27,7 @@
 |[Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) |DataCamp|April 29, 2025|
 |[Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) |DataCamp|April 28, 2025|
 |[Business Analytics with Excel](https://simpli-web.app.link/e/59Z3R8NzTCb)|SimpliLearn|September 7, 2023|
-|---DATA LITERACY---|PROVIDER|DATE|
+|---DATA LITERACY---|||
 |[DATA LITERACY SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/120934154f5fea8a3e0445a43f5dc4301ece4c19?raw=1)|DataCamp|April 24, 2025|
 |[Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) |DataCamp|April 24, 2025|
 |[Data Storytelling Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4b101b993b0c4de0283d1019fbdb8e075f4ab2bf?raw=1) |DataCamp|April 24, 2025|
