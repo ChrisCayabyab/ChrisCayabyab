@@ -13,6 +13,8 @@
 |[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)|DataCamp|April 18,2025, 2025|
   
 </div>
+<div align="center">
+  
 ## 📚COURSES
 
 |EXCEL|PROVIDER|DATE|
@@ -76,6 +78,8 @@
 |---Cloud Certifications---|PROVIDER|DATE|
 |[Oracle Cloud Data Management Foundation Certificate Associate](https://drive.google.com/file/d/1BgMwlo6hRPSgL5v5StxWLtQTaOfosuOq/view?usp=sharing)|Oracle|November 28, 2022|
 |[Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12)|Oracle|November 22, 2022|
+
+</div>
 
 
 #### Thesis
