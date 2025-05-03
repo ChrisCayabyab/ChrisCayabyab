@@ -3,12 +3,15 @@
 ## Education
 - **Bachelor of Science in Computer Science**
   - New Era University, 2021 - Present
-<div align="center">
+
 ## 📜CERTIFICATIONS
+<div align="center">
+  
 |CERTIFICATE|PROVIDER|DATE|
 |:--------------------------------------------------:|:--------------------:|:--------------------:|
 |[Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)|DataCamp|April 24,2025, 2025|
 |[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)|DataCamp|April 18,2025, 2025|
+  
 </div>
 ## 📚COURSES
 
