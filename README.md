@@ -1,4 +1,5 @@
-# Chris Daniel B. Cayabyab
+
+![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
 
 ## Education
 - **Bachelor of Science in Computer Science**
