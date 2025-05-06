@@ -83,9 +83,7 @@
 
 </div>
 
-
-## Thesis Certificates
-
+<h2 align="center">Thesis Certificates</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90d411a7-929c-4578-b899-181841114946" width="45%"/>
   <img src="https://github.com/user-attachments/assets/4e869005-59fb-4393-beb4-c542892d3884" width="45%"/>
