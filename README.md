@@ -84,11 +84,22 @@
 </div>
 
 
-#### Thesis
-- [ICITE Thesis Certification of Appreciation](https://drive.google.com/file/d/1xJ1Hh19hw6iRrrNsP1a4gT6_hP7Z4X3z/view?usp=drive_link)
-- [ICITE Thesis Certification of Attendance](https://drive.google.com/file/d/1XjSb0SuwYEHV_g7tGg0XBODoNIvuRNbX/view?usp=drive_link)
-- [ICITE Thesis Certification of Appearance](https://drive.google.com/file/d/1NO540wCuy5VMfmL7ESOrp1U8cf-PAOGn/view?usp=drive_link)
-- [ICITE Thesis Certification of Recognition](https://drive.google.com/file/d/1RqoHq5P3R5Mfo-CIHl-8A70ndWUdmxlh/view?usp=drive_link)
+<h4>Thesis Certificates</h4>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/90d411a7-929c-4578-b899-181841114946" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4e869005-59fb-4393-beb4-c542892d3884" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/21386bc7-c224-486e-847f-e18f1ea98f47" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="250"/></td>
+  </tr>
+</table>
+
+
+
+
 
 ## Tech Achievements
 ### Design Patterns
