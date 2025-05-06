@@ -84,7 +84,7 @@
 </div>
 
 
-<h4 align="center">Thesis Certificates</h4>
+## Thesis Certificates
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90d411a7-929c-4578-b899-181841114946" width="45%"/>
