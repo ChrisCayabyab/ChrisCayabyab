@@ -1,8 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/sirhc.leinad.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sirhcleinad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cayabyab.chrisdaniel@gmail.com) 
+# 🌐 Socials:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://web.facebook.com/sirhc.leinad.3">
