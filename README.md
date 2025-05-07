@@ -1,17 +1,9 @@
 
-![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
-
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)]()
-[![Facebook](https://cdn.simpleicons.org/facebook/1877F2)]()
-[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)]()
-[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)]()
-[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)]()
-
 <!-- Icon Bar Container -->
 <div style="display: flex; gap: 16px; align-items: center; justify-content: center; padding: 16px; background-color: #f9f9f9;">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" target="_blank" title="LinkedIn" style="transition: transform 0.2s;">
+  <a href="https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" target="_blank" title="LinkedIn" style="transition: transform 0.2s;">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 
