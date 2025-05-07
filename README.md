@@ -1,6 +1,13 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
 
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324/)
+[![Facebook](https://cdn.simpleicons.org/facebook/1877F2)](https://web.facebook.com/sirhc.leinad.3)
+[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](cayabyab.chrisdaniel@gmail.com)
+[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://www.instagram.com/sirhcleinad)
+[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)](https://t.me/cdcayabyab)
+
+
 ## Education
 - **Bachelor of Science in Computer Science**
   - New Era University, 2021 - Present
