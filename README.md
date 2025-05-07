@@ -1,11 +1,41 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324/)
-[![Facebook](https://cdn.simpleicons.org/facebook/1877F2)](https://web.facebook.com/sirhc.leinad.3)
-[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](cayabyab.chrisdaniel@gmail.com)
-[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://www.instagram.com/sirhcleinad)
-[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)](https://t.me/cdcayabyab)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)]()
+[![Facebook](https://cdn.simpleicons.org/facebook/1877F2)]()
+[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)]()
+[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)]()
+[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)]()
+
+<!-- Icon Bar Container -->
+<div style="display: flex; gap: 16px; align-items: center; justify-content: center; padding: 16px; background-color: #f9f9f9;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" target="_blank" title="LinkedIn" style="transition: transform 0.2s;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/sirhc.leinad.3" target="_blank" title="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="cayabyab.chrisdaniel@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sirhcleinad" target="_blank" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/cdcayabyab" target="_blank" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+</div>
 
 
 ## Education
