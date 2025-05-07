@@ -1,41 +1,47 @@
 ![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
 
-<!-- Icon Bar Container -->
-<div style="display: flex; gap: 16px; align-items: center; justify-content: center; padding: 16px; background-color: #f9f9f9;">
+<div style="display: flex; flex-direction: column; gap: 12px; max-width: 250px; font-family: Arial, sans-serif;">
 
   <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" target="_blank" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" 
-       alt="LinkedIn" 
-       width="28" 
-       style="transition: transform 0.2s; display: inline-block;" 
-       onmouseover="this.style.transform='scale(1.2)'" 
-       onmouseout="this.style.transform='scale(1)'" />
-</a>
-
-
-  <!-- Facebook -->
-  <a href="https://web.facebook.com/sirhc.leinad.3" target="_blank" title="Facebook">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" 
+     target="_blank"
+     style="display: flex; align-items: center; gap: 10px; text-decoration: none; padding: 10px; border: 1px solid #ccc; border-radius: 6px; background: #f1f1f1; transition: background 0.2s;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="24" />
+    <span style="color: #000;">LinkedIn</span>
   </a>
 
   <!-- Gmail -->
-  <a href="cayabyab.chrisdaniel@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sirhcleinad" target="_blank" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="mailto:cayabyab.chrisdaniel@gmail.com"
+     style="display: flex; align-items: center; gap: 10px; text-decoration: none; padding: 10px; border: 1px solid #ccc; border-radius: 6px; background: #f1f1f1; transition: background 0.2s;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" />
+    <span style="color: #000;">Email</span>
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/cdcayabyab" target="_blank" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://t.me/cdcayabyab"
+     target="_blank"
+     style="display: flex; align-items: center; gap: 10px; text-decoration: none; padding: 10px; border: 1px solid #ccc; border-radius: 6px; background: #f1f1f1; transition: background 0.2s;">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="24" />
+    <span style="color: #000;">Telegram</span>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/sirhc.leinad.3"
+     target="_blank"
+     style="display: flex; align-items: center; gap: 10px; text-decoration: none; padding: 10px; border: 1px solid #ccc; border-radius: 6px; background: #f1f1f1; transition: background 0.2s;">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="24" />
+    <span style="color: #000;">Facebook</span>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sirhcleinad"
+     target="_blank"
+     style="display: flex; align-items: center; gap: 10px; text-decoration: none; padding: 10px; border: 1px solid #ccc; border-radius: 6px; background: #f1f1f1; transition: background 0.2s;">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="24" />
+    <span style="color: #000;">Instagram</span>
   </a>
 
 </div>
-
 
 ## Education
 - **Bachelor of Science in Computer Science**
