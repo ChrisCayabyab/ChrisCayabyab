@@ -3,9 +3,15 @@
 <div style="display: flex; gap: 16px; align-items: center; justify-content: center; padding: 16px; background-color: #f9f9f9;">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" target="_blank" title="LinkedIn" style="transition: transform 0.2s;">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+<a href="https://www.linkedin.com/in/chris-daniel-cayabyab-5b5241324" target="_blank" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" 
+       alt="LinkedIn" 
+       width="28" 
+       style="transition: transform 0.2s; display: inline-block;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
 
   <!-- Facebook -->
   <a href="https://web.facebook.com/sirhc.leinad.3" target="_blank" title="Facebook">
