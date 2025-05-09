@@ -121,11 +121,6 @@
   <img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="45%"/>
 </p>
 
-
-
-
-
-
 ## Tech Achievements
 ### Design Patterns
 - [Visitor Pattern Lab](https://github.com/ChrisCayabyab/visitorPatternLab)
@@ -138,15 +133,6 @@
 - [PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 - [PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 
-## Skill Set
-- **Data Visualization Tools**: PowerBI Desktop, Tableau Public
-- **Programming Languages**: Java, Python, CSS, HTML, JavaScript
-- **DBMS**: DB2
-- **Dev Tools**: Lucidchart, Eclipse, Visual Studio Code
-
-## DESIGNING TOOLS
-- **Canva**
-- **Da Vinci**
 
 ## Projects
 ### Spreadsheet
