@@ -130,8 +130,8 @@
 - [Decorator Pattern](https://github.com/ChrisCayabyab/decoratorPattern)
 
 ### PowerBI Reports
-- [PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
-- [PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
+- [![2025-05-12 22-17-18](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
+- [![2025-05-12 22-18-24](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 
 
 ## Projects
