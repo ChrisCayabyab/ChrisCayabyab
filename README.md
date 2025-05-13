@@ -1,7 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/68c670d9-7dbc-4be4-a94c-067d8b7a4bee)
 
-
-# 🌐 Socials:
+<h2 style="text-align: center;">🌐 Socials:</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://web.facebook.com/sirhc.leinad.3">
@@ -18,8 +17,7 @@
   </a>
 </div>
 
-
-# 💻 Tech Stack:
+<h2 style="text-align: center;">💻 Tech Stack:</h2>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 # 📊 GitHub Stats:
 <div align="center">
@@ -112,7 +110,7 @@
 
 </div>
 
-<h1 align="center">THESIS CERTIFICATES</h4>
+<h2 align="center">THESIS CERTIFICATES</h2>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90d411a7-929c-4578-b899-181841114946" width="45%"/>
   <img src="https://github.com/user-attachments/assets/4e869005-59fb-4393-beb4-c542892d3884" width="45%"/>
@@ -121,21 +119,20 @@
   <img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="45%"/>
 </p>
 
-## Tech Achievements
-### Design Patterns
+<h2 style="text-align: center;">Projects</h2>
+
+<h2 style="text-align: center;">Design Patter</h2>
 - [Visitor Pattern Lab](https://github.com/ChrisCayabyab/visitorPatternLab)
 - [State Pattern](https://github.com/ChrisCayabyab/StatePattern)
 - [Strategy Pattern](https://github.com/ChrisCayabyab/StrategyPattern)
 - [Builder Pattern](https://github.com/ChrisCayabyab/BuilderPattern)
 - [Decorator Pattern](https://github.com/ChrisCayabyab/decoratorPattern)
 
-### PowerBI Reports
+<h2 style="text-align: center;">PowerBI Reports</h2>
 - [![2025-05-12 22-17-18](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 - [![2025-05-12 22-18-24](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 
-
-## Projects
-### Spreadsheet
+<h2 style="text-align: center;">Projects I Personally Use</h2>
 [![2025-05-05 19-53-20](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
 [![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
 
