@@ -121,19 +121,19 @@
   <img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="45%"/>
 </p>
 
-## Projects
-### Design Patterns
+# PROJECTS
+## DESIGN PATTERS
 - [Visitor Pattern Lab](https://github.com/ChrisCayabyab/visitorPatternLab)
 - [State Pattern](https://github.com/ChrisCayabyab/StatePattern)
 - [Strategy Pattern](https://github.com/ChrisCayabyab/StrategyPattern)
 - [Builder Pattern](https://github.com/ChrisCayabyab/BuilderPattern)
 - [Decorator Pattern](https://github.com/ChrisCayabyab/decoratorPattern)
 
-### PowerBI Reports
+## POWERBI PROJECTS
 - [![2025-05-12 22-17-18](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 - [![2025-05-12 22-18-24](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 
-### Soreadsheet Projects I personally Use
+## SPREADSHEETS PROJECTS I PERSONALLY USE
 [![2025-05-05 19-53-20](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
 [![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
 
