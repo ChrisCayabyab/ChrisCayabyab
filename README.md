@@ -122,6 +122,7 @@
 </p>
 
 <h1 align="center">PROJECTS</h4>
+
 ## DESIGN PATTERNS
 - [Visitor Pattern Lab](https://github.com/ChrisCayabyab/visitorPatternLab)
 - [State Pattern](https://github.com/ChrisCayabyab/StatePattern)
@@ -134,6 +135,7 @@
 - [![2025-05-12 22-18-24](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 
 <h1 align="center">SPREADSHEETS PROJECTS I CREATED AND USE</h4>
+
 [![2025-05-14 20-01-11](https://github.com/user-attachments/assets/ce33a7f0-0a40-4bfc-89fa-c3248f015044)](https://github.com/ChrisCayabyab/SPREADSHEET---ACTIVITY-MONITORING)
 [![2025-05-05 19-53-20](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
 [![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
