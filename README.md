@@ -123,15 +123,6 @@
 
 <h1 align="center">PROJECTS</h4>
 
-<div style="border: 2px solid #4CAF50; padding: 20px; text-align: center; font-size: 24px; font-weight: bold;">
-  🎓 UNIVERSITY PROJECTS  
-  <br>
-  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md">View All Projects on GitHub</a>
-</div>
-
-
-
-
 ## 2024 POWERBI PROJECTS
 - [![2025-05-12 22-17-18](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
 - [![2025-05-12 22-18-24](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
@@ -142,5 +133,12 @@
 [![2025-05-05 19-53-20](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
 [![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
 
+<h1 align="center">🎓 UNIVERSITY PROJECTS</h1>
+
+<p align="center">
+  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
+    View All Projects on GitHub
+  </a>
+</p>
 
 
