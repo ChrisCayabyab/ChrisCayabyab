@@ -137,7 +137,7 @@
 
 <p align="center">
   <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
-    View All Projects on GitHub
+    View Projects on GitHub
   </a>
 </p>
 
