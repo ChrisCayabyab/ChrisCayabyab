@@ -123,13 +123,12 @@
 
 <h1 align="center">PROJECTS</h4>
 
-
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; text-align: center; font-size: 22px;">
-  <strong>🎓 UNIVERSITY PROJECTS</strong><br>
-  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md">
-    View All Projects on GitHub
-  </a>
+<div style="border: 2px solid #4CAF50; padding: 20px; text-align: center; font-size: 24px; font-weight: bold;">
+  🎓 UNIVERSITY PROJECTS  
+  <br>
+  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md">View All Projects on GitHub</a>
 </div>
+
 
 
 
