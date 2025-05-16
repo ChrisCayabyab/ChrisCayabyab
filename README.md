@@ -123,9 +123,14 @@
 
 <h1 align="center">PROJECTS</h4>
 
-## 🎓 UNIVERSITY PROJECTS
 
-[![View Projects](https://img.shields.io/badge/GitHub-UNI__PROJECTS-blue?logo=github)](https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md)
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; text-align: center; font-size: 22px;">
+  <strong>🎓 UNIVERSITY PROJECTS</strong><br>
+  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md">
+    View All Projects on GitHub
+  </a>
+</div>
+
 
 
 ## 2024 POWERBI PROJECTS
