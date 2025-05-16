@@ -123,12 +123,8 @@
 
 <h1 align="center">PROJECTS</h4>
 
-## DESIGN PATTERNS
-- [Visitor Pattern Lab](https://github.com/ChrisCayabyab/visitorPatternLab)
-- [State Pattern](https://github.com/ChrisCayabyab/StatePattern)
-- [Strategy Pattern](https://github.com/ChrisCayabyab/StrategyPattern)
-- [Builder Pattern](https://github.com/ChrisCayabyab/BuilderPattern)
-- [Decorator Pattern](https://github.com/ChrisCayabyab/decoratorPattern)
+## UNIVERSITY PROJECTS
+|https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md|
 
 ## 2024 POWERBI PROJECTS
 - [![2025-05-12 22-17-18](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
