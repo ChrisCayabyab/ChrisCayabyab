@@ -129,11 +129,14 @@
 [![2025-05-05 19-53-20](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
 [![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
 
-<h1 align="center">🎓 UNIVERSITY PROJECTS</h1>
+<h1 align="center">🎓 UNIVERSITY PROJECTS AND SEMINARS</h1>
 
 <p align="center">
   <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
-    View Projects on GitHub
+    View Projects
+  </a>
+  <a href="https://github.com/ChrisCayabyab/UNI_Seminars/tree/main" style="font-size:20px;">
+    View Seminars
   </a>
 </p>
 
