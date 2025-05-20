@@ -135,6 +135,7 @@
   <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
     View Projects
   </a>
+  <br>
   <a href="https://github.com/ChrisCayabyab/UNI_Seminars/tree/main" style="font-size:20px;">
     View Seminars
   </a>
