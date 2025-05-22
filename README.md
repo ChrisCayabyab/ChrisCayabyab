@@ -133,14 +133,14 @@
 
 <h1 align="center">🎓 UNIVERSITY PROJECTS AND SEMINARS</h1>
 
-<p align="center">
-  <h2 href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
+<h2 align="center">
+  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
     View Projects
-  </h2>
+  </a>
   <br>
-  <h2 href="https://github.com/ChrisCayabyab/UNI_Seminars/tree/main" style="font-size:20px;">
+  <a href="https://github.com/ChrisCayabyab/UNI_Seminars/tree/main" style="font-size:20px;">
     View Seminars
-  </h2>
-</p>
+  </a>
+</h2>
 
 
