@@ -105,8 +105,9 @@
 |[Foundations of Purple Teaming](https://www.credly.com/badges/02d1d798-660e-4004-b7df-2bfcabac9708/public_url) |AttackIQ Academy |October 21, 2024|
 |[Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url) |Cisco |October 17, 2024|
 |---Finance and Trading---|||
-|[The Complete Foundation Stock Tradin Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) |BloomTrading |March 27, 2025|
+|[Live Stock Trading Course: Beginner to Pro](https://www.udemy.com/certificate/UC-2fc3ad07-d2b3-4292-ad6a-783d458ea1bc/)|BloomTrading|May 22, 2025|
 |[Day Trading and Swing Trading Strategies For Stocks](https://www.udemy.com/certificate/UC-a861874d-cfaa-4f27-a49a-77794a2d7bc3/)|BloomTrading|May 21, 2025|
+|[The Complete Foundation Stock Tradin Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) |BloomTrading |March 27, 2025|
 |---Cloud Certifications---|||
 |[Oracle Cloud Data Management Foundation Certificate Associate](https://drive.google.com/file/d/1BgMwlo6hRPSgL5v5StxWLtQTaOfosuOq/view?usp=sharing)|Oracle|November 28, 2022|
 |[Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12)|Oracle|November 22, 2022|
