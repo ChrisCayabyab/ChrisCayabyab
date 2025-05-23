@@ -105,6 +105,7 @@
 |[Foundations of Purple Teaming](https://www.credly.com/badges/02d1d798-660e-4004-b7df-2bfcabac9708/public_url) |AttackIQ Academy |October 21, 2024|
 |[Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url) |Cisco |October 17, 2024|
 |---Finance and Trading---|||
+|[Advanced Stock Trading Course + Strategies](https://www.udemy.com/certificate/UC-beaa0def-d55b-4bec-bf41-3e20f9858c69/)|BloomTrading|May 23, 2025|
 |[Live Stock Trading Course: Beginner to Pro](https://www.udemy.com/certificate/UC-2fc3ad07-d2b3-4292-ad6a-783d458ea1bc/)|BloomTrading|May 22, 2025|
 |[Day Trading and Swing Trading Strategies For Stocks](https://www.udemy.com/certificate/UC-a861874d-cfaa-4f27-a49a-77794a2d7bc3/)|BloomTrading|May 21, 2025|
 |[The Complete Foundation Stock Tradin Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) |BloomTrading |March 27, 2025|
