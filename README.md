@@ -119,10 +119,10 @@
 
 ## 🔹 2024 Power BI Projects
 
-- **Regional Sales Dashboard**  
+- **Snack Report**  
   [![2025-05-12](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=...)
 
-- **Customer Satisfaction Dashboard**  
+- **Soda Report**  
   [![2025-05-12](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=...)
 
 ---
