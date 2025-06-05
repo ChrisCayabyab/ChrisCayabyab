@@ -90,6 +90,7 @@
 |[Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1) |DataCamp|November 2, 2024|
 |[SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) | Cognitive Class |November 6, 2022|
 |---PowerBi & Visualization---|||
+|[Case Study: Analyzing Customer Churn in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/0a0beab0a8f4c036736cc95782a5186fe3f8b28d?raw=1)|DataCamp|June 5, 2025|
 |[Introduction to DAX in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/77f004bff16804deee404d670c43efb87fcb4795?raw=1)|DataCamp|June 3,2025|
 |[[Understanding Data Visualization](https://www.datacamp.com/completed/statement-of-accomplishment/course/197fa9edccfb010801d521c02cd413432c0b17e4)|DataCamp|April 7, 2025|
 |[Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) |DataCamp|December 13, 2024|
