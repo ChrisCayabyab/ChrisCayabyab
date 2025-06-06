@@ -90,8 +90,6 @@
 |[Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1) |DataCamp|November 2, 2024|
 |[SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) | Cognitive Class |November 6, 2022|
 |---PowerBi & Visualization---|||
-|[Case Study: Analyzing Customer Churn in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/0a0beab0a8f4c036736cc95782a5186fe3f8b28d?raw=1)|DataCamp|June 5, 2025|
-|[Introduction to DAX in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/77f004bff16804deee404d670c43efb87fcb4795?raw=1)|DataCamp|June 3,2025|
 |[[Understanding Data Visualization](https://www.datacamp.com/completed/statement-of-accomplishment/course/197fa9edccfb010801d521c02cd413432c0b17e4)|DataCamp|April 7, 2025|
 |[Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) |DataCamp|December 13, 2024|
 |[Introduction to PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1)|DataCamp|December 12, 2024|
@@ -117,32 +115,33 @@
 
 </div>
 
-<h1 align="center">📊 PROJECTS</h1>
+<h1 align="center">PROJECTS</h4>
 
-## 🔹 2024 Power BI Projects
+# 2024 POWERBI PROJECTS
+- [![2025-05-12 22-17-18](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=eyJrIjoiMmFjYTQ0ZTgtMTc5Ny00NmU3LTlhZjYtMzZiZjc4MGI4Y2ZhIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
+- [![2025-05-12 22-18-24](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
+  
+<BR>
+<BR>
+<BR>
+<BR>
 
-- **Snack Report**  
-  [![2025-05-12](https://github.com/user-attachments/assets/b8395420-4c53-4d10-8e6d-31a6a5c4c29a)](https://app.powerbi.com/view?r=...)
+# SPREADSHEETS PROJECTS I CREATED AND USE
 
-- **Soda Report**  
-  [![2025-05-12](https://github.com/user-attachments/assets/fa4c85e9-a5b8-436e-a0b1-33132bb08021)](https://app.powerbi.com/view?r=...)
+[![2025-05-14 20-01-11](https://github.com/user-attachments/assets/ce33a7f0-0a40-4bfc-89fa-c3248f015044)](https://github.com/ChrisCayabyab/SPREADSHEET---ACTIVITY-MONITORING)
+[![2025-05-05 19-53-20](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
+[![2025-03-26 21-49-11](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
 
----
-
-## 🔹 Spreadsheet Projects I Created & Use
-
-[![Activity Monitor](https://github.com/user-attachments/assets/ce33a7f0-0a40-4bfc-89fa-c3248f015044)](https://github.com/ChrisCayabyab/SPREADSHEET---ACTIVITY-MONITORING)
-[![Budget Planner](https://github.com/user-attachments/assets/6cc7456e-3cb8-4749-b433-8f65d0a03f3a)](https://github.com/ChrisCayabyab/SPREADSHEET-BUDGET-PLANNING-AND-MONITORING)
-[![Electric Bill Calculator](https://github.com/user-attachments/assets/a521fda3-f2e7-4bbe-846b-fb39f22bf4eb)](https://github.com/ChrisCayabyab/Spreadsheet-Electric-Bill-Calculator)
-
----
-
-<h1 align="center">🎓 University Projects and Seminars</h1>
+<h1 align="center">🎓 UNIVERSITY PROJECTS AND SEMINARS</h1>
 
 <h2 align="center">
-  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md">View Projects</a>
+  <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
+    View Projects
+  </a>
   <br>
-  <a href="https://github.com/ChrisCayabyab/UNI_Seminars/tree/main">View Seminars</a>
+  <a href="https://github.com/ChrisCayabyab/UNI_Seminars/tree/main" style="font-size:20px;">
+    View Seminars
+  </a>
 </h2>
 
 
