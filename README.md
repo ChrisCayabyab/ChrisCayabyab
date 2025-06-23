@@ -94,6 +94,7 @@
 |[Data Transformation]()|DataCamp|June 12, 2025|
 |[Data Preparation in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/b5ccc3157d48947df787b043fb867a0c20043650?raw=1)|DataCamp|June 10, 2025|
 |[[Understanding Data Visualization](https://www.datacamp.com/completed/statement-of-accomplishment/course/197fa9edccfb010801d521c02cd413432c0b17e4)|DataCamp| June 7, 2025|
+|[Introduction to DAX in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/77f004bff16804deee404d670c43efb87fcb4795)|DataCamp|June 3,2025|
 |[Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) |DataCamp|December 13, 2024|
 |[Introduction to PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1)|DataCamp|December 12, 2024|
 |---Project Mangement and Productivity---|||
