@@ -92,7 +92,7 @@
 |---PowerBi & Visualization---|||
 |[DAX Functions in PowerBI]()|DataCamp|June 27, 2025|
 |[Case Study:HR Analytics]()|DataCamp|June 26, 2025|
-|[Intermediate Data Modeling]()|DataCamp|June 25, 2025|
+|[Intermediate Data Modeling](https://www.datacamp.com/statement-of-accomplishment/course/1fcac0d793e17e84826beec79531a28560b999b7?raw=1)|DataCamp|June 25, 2025|
 |[Data Modeling](https://www.datacamp.com/statement-of-accomplishment/course/0aa82cefa4628d833f3e289764c0411bd926802b?raw=1)|DataCamp|June 24,2025|
 |[Data Transformation](https://www.datacamp.com/statement-of-accomplishment/course/6e63011ee26d95c34db906f5cc8d5b75314c116a?raw=1)|DataCamp|June 23, 2025|
 |[Data Preparation in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/b5ccc3157d48947df787b043fb867a0c20043650?raw=1)|DataCamp|June 10, 2025|
