@@ -90,6 +90,7 @@
 |[Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1) |DataCamp|November 2, 2024|
 |[SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) | Cognitive Class |November 6, 2022|
 |---PowerBi & Visualization---|||
+|[Trend Analysis in Power Bl]()|DataCamp|July 3, 2025|
 |[Exploratory Data Analysis in Power Bl]()|DataCamp|July 2, 2025|
 |[Intermediate DAX Functions in PowerBI]()|DataCamp|July 1, 2025|
 |[DAX Functions in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/10c5e63b4d09deb14a739e3fcb1083e6b17819d9?raw=1)|DataCamp|June 27, 2025|
