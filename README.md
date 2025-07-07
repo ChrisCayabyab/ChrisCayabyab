@@ -90,9 +90,10 @@
 |[Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1) |DataCamp|November 2, 2024|
 |[SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) | Cognitive Class |November 6, 2022|
 |---PowerBi & Visualization---|||
+|[Report Design in Power Bl]()|DataCamp|July 7, 2025|
 |[Reports in Power Bl]()|DataCamp|July 4, 2025|
 |[Trend Analysis in Power Bl]()|DataCamp|July 3, 2025|
-|[Exploratory Data Analysis in Power Bl]()|DataCamp|July 2, 2025|
+|[Exploratory Data Analysis in Power Bl](https://www.datacamp.com/statement-of-accomplishment/course/81044eea48dba2f6a0b4ff7aa764bd9e03bd1386?raw=1)|DataCamp|July 2, 2025|
 |[Intermediate DAX Functions in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/bb58ae477d5b672c3d7bac3fd04c82bcc49fb59e?raw=1)|DataCamp|July 1, 2025|
 |[DAX Functions in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/10c5e63b4d09deb14a739e3fcb1083e6b17819d9?raw=1)|DataCamp|June 27, 2025|
 |[Case Study:HR Analytics](https://www.datacamp.com/statement-of-accomplishment/course/eb59f17e49ae5a8ba986948730d331f6ec354134?raw=1)|DataCamp|June 26, 2025|
