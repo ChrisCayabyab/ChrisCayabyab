@@ -48,84 +48,103 @@
 
 ## 📚COURSES
 
-|EXCEL|PROVIDER|DATE|
-|:-:|:-:|:-:|
-|[---EXCEL FUNDAMENTALS SKILL TRACK COMPLETION---](https://www.datacamp.com/statement-of-accomplishment/track/fc812382cb8e4669c71b51ad8efe6e793395849e?raw=1)|DataCamp|May2, 2025|
-|[Case Study: Analyzing Customer Churn in Excel](https://www.datacamp.com/statement-of-accomplishment/course/954483c2041ced66c393cb7159d4581c69f70dae?raw=1)|DataCamp|May 2, 2025|
-|[Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/e3284717ebd005404844bf077e543186efbbc5fd?raw=1)|DataCamp|May 1, 2025|
-|[Data Visualization in Excel](https://www.datacamp.com/statement-of-accomplishment/course/86101d2bd3c483bd9d64a6329bfa3f5e8e5db0f4?raw=1) |DataCamp|April 30, 2025|
-|[Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) |DataCamp|April 29, 2025|
-|[Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) |DataCamp|April 28, 2025|
-|[Business Analytics with Excel](https://simpli-web.app.link/e/59Z3R8NzTCb)|SimpliLearn|September 7, 2023|
-|---DATA LITERACY---|||
-|[DATA LITERACY SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/120934154f5fea8a3e0445a43f5dc4301ece4c19?raw=1)|DataCamp|April 24, 2025|
-|[Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) |DataCamp|April 24, 2025|
-|[Data Storytelling Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4b101b993b0c4de0283d1019fbdb8e075f4ab2bf?raw=1) |DataCamp|April 24, 2025|
-|[Forming Analytical Questions](https://www.datacamp.com/statement-of-accomplishment/course/b31514b05d281cc0023665d4801e7f85c1064281?raw=1) |DataCamp|April 23, 2025|
-|[Introduction to Data Culture](https://www.datacamp.com/statement-of-accomplishment/course/fb3d1da56e5bcbfdb93cf47396e28538df128ec2?raw=1) |DataCamp|April 23, 2025|
-|[Introduction to Data Literacy](https://www.datacamp.com/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea?raw=1) |DataCamp|April 22, 2025|
-|[Introduction to Data](https://www.datacamp.com/statement-of-accomplishment/course/b39906e0e92a8ebf23248a00d7ccbff8d88ed29f?raw=1) |DataCamp|April 21, 2025|
-|[Communicating Data Insights](https://www.datacamp.com/statement-of-accomplishment/course/660494645ce8bc47ff458e7a81c289ba38223b34?raw=1) |DataCamp|April 21, 2025|
-|---AI FUNDAMENTALS---|||
-|[AI FUNDAMENTALS SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/db2b5c641e32e38621e64eaa08eb8eb06aea3222?raw=1)]|DataCamp|April 18,2025|
-|[AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d74d4401e07948cf5357e8134d4a8e1d7b7f8e8) |DataCamp|April 18,2025|
-|[Generative AI Concepts](https://www.datacamp.com/statement-of-accomplishment/course/fdc21c71d4716a1a07979a4f77384fb7b3406f16?raw=1) |DataCamp|April 18,2025|
-|[Large Language Models (LLMs) Concepts](https://www.datacamp.com/statement-of-accomplishment/course/f858f80cc000c09d7a30a06463beb790e9d7da7c?raw=1) |DataCamp|April 17,2025|
-|[Understanding Machine Learning](https://www.datacamp.com/statement-of-accomplishment/course/ed52bb1f70dd72f23c9be80f2c63bf79de04355a?raw=1) |DataCamp|April 16,2025|
-|[Understanding ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cff696ba7d5483ef48ccdb4f0a11584d8aad7fb3) |DataCamp|April 15,2025|
-|[Understanding Artificical Intelligence](https://www.datacamp.com/completed/statement-of-accomplishment/course/d5b036cfcfa3218780fad6f4d51bb5eaa3e9bab0) |DataCamp|April 14,2025|
-|[Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cdaa38764298bf95ad180c3ee1ac080f3de76ac3) |DataCamp|April 8,2025|
-|---SQL & Databases---|||
-|[SQL ASSOCIATE SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/f786c867a29f496869ca4869d3c9ed08593f68bf?raw=1)|DataCamp|April 9,2025|
-|[Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/16561579d69c78415431697ae9939500d6012ad7)|DataCamp|April 9, 2025|
-|[Data Communication Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab60c562bdca0e2d61e365afb5672dc36f38a137)|DataCamp|April 8, 2025|
-|[Data-Driven Decision Making in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/7013410a72697d83ce8e3408222065d4a46484f0) |DataCamp|April 4, 2025|
-|[Exploratory Data Analysis in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/87a99787c0c83b5286f7b3e3b870d47123f859bf) |DataCamp|April 3, 2025|
-|[Introduction to Statistics](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea)|DataCamp|April 2, 2025|
-|[Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/6d3e55da08ba21a286f25ccf630090216aec3dc5) |DataCamp|April 1, 2025|
-|[PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/completed/statement-of-accomplishment/course/46f815accf49624ac4dd05794b0a2be7013f2d6f) |DataCamp|March 31, 2025|
-|[Data Manipulation in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/1dcf0cb5c6919a0bc9e59463b285ce2e8a55f562)|DataCamp|March 28, 2025|
-|[Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/0c41e47234c2a2262e1b32f35c651e8406af5b88?raw=1) |DataCamp|March 20, 2025|
-|[Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/4f37e1e844a15103265c43ac1871afab115124af?raw=1) |DataCamp|November 3, 2024|
-|[Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1) |DataCamp|November 2, 2024|
-|[SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) | Cognitive Class |November 6, 2022|
-|---PowerBi & Visualization---|||
-|[Deploying And Maintaining in Power Bl]()|DataCamp|July 9, 2025|
-|[Data Connections in Power Bl]()|DataCamp|July 8, 2025|
-|[Report Design in Power Bl]()|DataCamp|July 7, 2025|
-|[Reports in Power Bl](https://www.datacamp.com/statement-of-accomplishment/course/4f1fb5f045c7ccaecba78e57a0f37dcdadcd4f14?raw=1)|DataCamp|July 4, 2025|
-|[Trend Analysis in Power Bl](https://www.datacamp.com/statement-of-accomplishment/course/1f00eec4ec044c9f413ddfaca892a2609ba049f3?raw=1)|DataCamp|July 3, 2025|
-|[Exploratory Data Analysis in Power Bl](https://www.datacamp.com/statement-of-accomplishment/course/81044eea48dba2f6a0b4ff7aa764bd9e03bd1386?raw=1)|DataCamp|July 2, 2025|
-|[Intermediate DAX Functions in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/bb58ae477d5b672c3d7bac3fd04c82bcc49fb59e?raw=1)|DataCamp|July 1, 2025|
-|[DAX Functions in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/10c5e63b4d09deb14a739e3fcb1083e6b17819d9?raw=1)|DataCamp|June 27, 2025|
-|[Case Study:HR Analytics](https://www.datacamp.com/statement-of-accomplishment/course/eb59f17e49ae5a8ba986948730d331f6ec354134?raw=1)|DataCamp|June 26, 2025|
-|[Intermediate Data Modeling](https://www.datacamp.com/statement-of-accomplishment/course/1fcac0d793e17e84826beec79531a28560b999b7?raw=1)|DataCamp|June 25, 2025|
-|[Data Modeling](https://www.datacamp.com/statement-of-accomplishment/course/0aa82cefa4628d833f3e289764c0411bd926802b?raw=1)|DataCamp|June 24,2025|
-|[Data Transformation](https://www.datacamp.com/statement-of-accomplishment/course/6e63011ee26d95c34db906f5cc8d5b75314c116a?raw=1)|DataCamp|June 23, 2025|
-|[Data Preparation in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/b5ccc3157d48947df787b043fb867a0c20043650?raw=1)|DataCamp|June 10, 2025|
-|[Understanding Data Visualization](https://www.datacamp.com/completed/statement-of-accomplishment/course/197fa9edccfb010801d521c02cd413432c0b17e4)|DataCamp| June 7, 2025|
-|[Introduction to DAX in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/77f004bff16804deee404d670c43efb87fcb4795)|DataCamp|June 3,2025|
-|[Data Visualization in PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) |DataCamp|December 13, 2024|
-|[Introduction to PowerBI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1)|DataCamp|December 12, 2024|
-|---Project Mangement and Productivity---|||
-|[Project Management](https://olympus.mygreatlearning.com/courses/66443/certificate) |Great Learning|October 24, 2024|
-|[THE COMPLETE GOOGLE SHEET COURSE: BEGINNER TO ADVANCED!](https://www.udemy.com/certificate/UC-6def2415-54d6-45a8-8a77-84b754628f09/)|Udemy|September 5, 2024|
-|---Python Programming---|||
-|[Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/56dc434820aec4c220393d49f95ecb0d861d2a36)|DataCamp |November 1, 2024|
-|[Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/0efc79128de369d2192d00bdbdaa66c71fa5957a?raw=1) |DataCamp |October 29, 2024|
-|---Cybersecurity---|||
-|[Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/0be52ef5-99f8-4e16-8daa-9ff6d1c9f373) |AttackIQ Academy |October 23, 2024|
-|[Foundations of Breach & Attack Simulation](https://www.credly.com/badges/17da4a5e-c838-4bf6-9b5b-63619e982030) |AttackIQ Academy |October 22, 2024|
-|[Foundations of Purple Teaming](https://www.credly.com/badges/02d1d798-660e-4004-b7df-2bfcabac9708/public_url) |AttackIQ Academy |October 21, 2024|
-|[Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url) |Cisco |October 17, 2024|
-|---Finance and Trading---|||
-|[Advanced Stock Trading Course + Strategies](https://www.udemy.com/certificate/UC-beaa0def-d55b-4bec-bf41-3e20f9858c69/)|BloomTrading|May 23, 2025|
-|[Live Stock Trading Course: Beginner to Pro](https://www.udemy.com/certificate/UC-2fc3ad07-d2b3-4292-ad6a-783d458ea1bc/)|BloomTrading|May 22, 2025|
-|[Day Trading and Swing Trading Strategies For Stocks](https://www.udemy.com/certificate/UC-a861874d-cfaa-4f27-a49a-77794a2d7bc3/)|BloomTrading|May 21, 2025|
-|[The Complete Foundation Stock Tradin Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) |BloomTrading |March 27, 2025|
-|---Cloud Certifications---|||
-|[Oracle Cloud Data Management Foundation Certificate Associate](https://drive.google.com/file/d/1BgMwlo6hRPSgL5v5StxWLtQTaOfosuOq/view?usp=sharing)|Oracle|November 28, 2022|
-|[Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12)|Oracle|November 22, 2022|
+| Course | Provider | Date |
+|:-|:-|:-|
+| [EXCEL FUNDAMENTALS SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/fc812382cb8e4669c71b51ad8efe6e793395849e?raw=1) | DataCamp | May 2, 2025 |
+| [Case Study: Analyzing Customer Churn in Excel](https://www.datacamp.com/statement-of-accomplishment/course/954483c2041ced66c393cb7159d4581c69f70dae?raw=1) | DataCamp | May 2, 2025 |
+| [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/e3284717ebd005404844bf077e543186efbbc5fd?raw=1) | DataCamp | May 1, 2025 |
+| [Data Visualization in Excel](https://www.datacamp.com/statement-of-accomplishment/course/86101d2bd3c483bd9d64a6329bfa3f5e8e5db0f4?raw=1) | DataCamp | April 30, 2025 |
+| [Data Preparation in Excel](https://www.datacamp.com/statement-of-accomplishment/course/671d6a37f2400c929f9a3b2d451b24838d01d607?raw=1) | DataCamp | April 29, 2025 |
+| [Introduction to Excel](https://www.datacamp.com/statement-of-accomplishment/course/0537d929cb949498193e40c83a479fe732320045?raw=1) | DataCamp | April 28, 2025 |
+| [Business Analytics with Excel](https://simpli-web.app.link/e/59Z3R8NzTCb) | SimpliLearn | September 7, 2023 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [DATA LITERACY SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/120934154f5fea8a3e0445a43f5dc4301ece4c19?raw=1) | DataCamp | April 24, 2025 |
+| [Data Literacy Case Study: Remote Working Analysis](https://www.datacamp.com/statement-of-accomplishment/course/c80392773ae5a72463da150777156d67942a7d30?raw=1) | DataCamp | April 24, 2025 |
+| [Data Storytelling Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4b101b993b0c4de0283d1019fbdb8e075f4ab2bf?raw=1) | DataCamp | April 24, 2025 |
+| [Forming Analytical Questions](https://www.datacamp.com/statement-of-accomplishment/course/b31514b05d281cc0023665d4801e7f85c1064281?raw=1) | DataCamp | April 23, 2025 |
+| [Introduction to Data Culture](https://www.datacamp.com/statement-of-accomplishment/course/fb3d1da56e5bcbfdb93cf47396e28538df128ec2?raw=1) | DataCamp | April 23, 2025 |
+| [Introduction to Data Literacy](https://www.datacamp.com/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea?raw=1) | DataCamp | April 22, 2025 |
+| [Introduction to Data](https://www.datacamp.com/statement-of-accomplishment/course/b39906e0e92a8ebf23248a00d7ccbff8d88ed29f?raw=1) | DataCamp | April 21, 2025 |
+| [Communicating Data Insights](https://www.datacamp.com/statement-of-accomplishment/course/660494645ce8bc47ff458e7a81c289ba38223b34?raw=1) | DataCamp | April 21, 2025 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [AI FUNDAMENTALS SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/db2b5c641e32e38621e64eaa08eb8eb06aea3222?raw=1) | DataCamp | April 18, 2025 |
+| [AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d74d4401e07948cf5357e8134d4a8e1d7b7f8e8) | DataCamp | April 18, 2025 |
+| [Generative AI Concepts](https://www.datacamp.com/statement-of-accomplishment/course/fdc21c71d4716a1a07979a4f77384fb7b3406f16?raw=1) | DataCamp | April 18, 2025 |
+| [Large Language Models (LLMs) Concepts](https://www.datacamp.com/statement-of-accomplishment/course/f858f80cc000c09d7a30a06463beb790e9d7da7c?raw=1) | DataCamp | April 17, 2025 |
+| [Understanding Machine Learning](https://www.datacamp.com/statement-of-accomplishment/course/ed52bb1f70dd72f23c9be80f2c63bf79de04355a?raw=1) | DataCamp | April 16, 2025 |
+| [Understanding ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cff696ba7d5483ef48ccdb4f0a11584d8aad7fb3) | DataCamp | April 15, 2025 |
+| [Understanding Artificial Intelligence](https://www.datacamp.com/completed/statement-of-accomplishment/course/d5b036cfcfa3218780fad6f4d51bb5eaa3e9bab0) | DataCamp | April 14, 2025 |
+| [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/cdaa38764298bf95ad180c3ee1ac080f3de76ac3) | DataCamp | April 8, 2025 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [SQL ASSOCIATE SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/f786c867a29f496869ca4869d3c9ed08593f68bf?raw=1) | DataCamp | April 9, 2025 |
+| [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/16561579d69c78415431697ae9939500d6012ad7) | DataCamp | April 9, 2025 |
+| [Data Communication Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab60c562bdca0e2d61e365afb5672dc36f38a137) | DataCamp | April 8, 2025 |
+| [Data-Driven Decision Making in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/7013410a72697d83ce8e3408222065d4a46484f0) | DataCamp | April 4, 2025 |
+| [Exploratory Data Analysis in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/87a99787c0c83b5286f7b3e3b870d47123f859bf) | DataCamp | April 3, 2025 |
+| [Introduction to Statistics](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea) | DataCamp | April 2, 2025 |
+| [Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/6d3e55da08ba21a286f25ccf630090216aec3dc5) | DataCamp | April 1, 2025 |
+| [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/completed/statement-of-accomplishment/course/46f815accf49624ac4dd05794b0a2be7013f2d6f) | DataCamp | March 31, 2025 |
+| [Data Manipulation in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/1dcf0cb5c6919a0bc9e59463b285ce2e8a55f562) | DataCamp | March 28, 2025 |
+| [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/0c41e47234c2a2262e1b32f35c651e8406af5b88?raw=1) | DataCamp | March 20, 2025 |
+| [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/4f37e1e844a15103265c43ac1871afab115124af?raw=1) | DataCamp | November 3, 2024 |
+| [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/322462848d100fe856ffedbb3344005c58ef5133?raw=1) | DataCamp | November 2, 2024 |
+| [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/891beb6959d84d40a5c1a6ea17083efb) | Cognitive Class | November 6, 2022 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [Deploying And Maintaining in Power BI]() | DataCamp | July 9, 2025 |
+| [Data Connections in Power BI]() | DataCamp | July 8, 2025 |
+| [Report Design in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/2e179c2939ea850fdc02b71b50b763739bf0e737?raw=1) | DataCamp | July 7, 2025 |
+| [Reports in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/4f1fb5f045c7ccaecba78e57a0f37dcdadcd4f14?raw=1) | DataCamp | July 4, 2025 |
+| [Trend Analysis in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/1f00eec4ec044c9f413ddfaca892a2609ba049f3?raw=1) | DataCamp | July 3, 2025 |
+| [Exploratory Data Analysis in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/81044eea48dba2f6a0b4ff7aa764bd9e03bd1386?raw=1) | DataCamp | July 2, 2025 |
+| [Intermediate DAX Functions in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/bb58ae477d5b672c3d7bac3fd04c82bcc49fb59e?raw=1) | DataCamp | July 1, 2025 |
+| [DAX Functions in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/10c5e63b4d09deb14a739e3fcb1083e6b17819d9?raw=1) | DataCamp | June 27, 2025 |
+| [Case Study: HR Analytics](https://www.datacamp.com/statement-of-accomplishment/course/eb59f17e49ae5a8ba986948730d331f6ec354134?raw=1) | DataCamp | June 26, 2025 |
+| [Intermediate Data Modeling](https://www.datacamp.com/statement-of-accomplishment/course/1fcac0d793e17e84826beec79531a28560b999b7?raw=1) | DataCamp | June 25, 2025 |
+| [Data Modeling](https://www.datacamp.com/statement-of-accomplishment/course/0aa82cefa4628d833f3e289764c0411bd926802b?raw=1) | DataCamp | June 24, 2025 |
+| [Data Transformation](https://www.datacamp.com/statement-of-accomplishment/course/6e63011ee26d95c34db906f5cc8d5b75314c116a?raw=1) | DataCamp | June 23, 2025 |
+| [Data Preparation in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/b5ccc3157d48947df787b043fb867a0c20043650?raw=1) | DataCamp | June 10, 2025 |
+| [Understanding Data Visualization](https://www.datacamp.com/completed/statement-of-accomplishment/course/197fa9edccfb010801d521c02cd413432c0b17e4) | DataCamp | June 7, 2025 |
+| [Introduction to DAX in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/77f004bff16804deee404d670c43efb87fcb4795) | DataCamp | June 3, 2025 |
+| [Data Visualization in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/c5828e2a6945b5313b6a20b1c7894b2fb6d66a93?raw=1) | DataCamp | December 13, 2024 |
+| [Introduction to Power BI](https://www.datacamp.com/statement-of-accomplishment/course/fa90b5e4fd0db5d4841b7c99e727b7d84e69b458?raw=1) | DataCamp | December 12, 2024 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [Project Management](https://olympus.mygreatlearning.com/courses/66443/certificate) | Great Learning | October 24, 2024 |
+| [THE COMPLETE GOOGLE SHEET COURSE: BEGINNER TO ADVANCED!](https://www.udemy.com/certificate/UC-6def2415-54d6-45a8-8a77-84b754628f09/) | Udemy | September 5, 2024 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/56dc434820aec4c220393d49f95ecb0d861d2a36) | DataCamp | November 1, 2024 |
+| [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/0efc79128de369d2192d00bdbdaa66c71fa5957a?raw=1) | DataCamp | October 29, 2024 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/0be52ef5-99f8-4e16-8daa-9ff6d1c9f373) | AttackIQ Academy | October 23, 2024 |
+| [Foundations of Breach & Attack Simulation](https://www.credly.com/badges/17da4a5e-c838-4bf6-9b5b-63619e982030) | AttackIQ Academy | October 22, 2024 |
+| [Foundations of Purple Teaming](https://www.credly.com/badges/02d1d798-660e-4004-b7df-2bfcabac9708/public_url) | AttackIQ Academy | October 21, 2024 |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/30eafa60-75fc-456c-b330-9d1a30590616/public_url) | Cisco | October 17, 2024 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [Advanced Stock Trading Course + Strategies](https://www.udemy.com/certificate/UC-beaa0def-d55b-4bec-bf41-3e20f9858c69/) | BloomTrading | May 23, 2025 |
+| [Live Stock Trading Course: Beginner to Pro](https://www.udemy.com/certificate/UC-2fc3ad07-d2b3-4292-ad6a-783d458ea1bc/) | BloomTrading | May 22, 2025 |
+| [Day Trading and Swing Trading Strategies For Stocks](https://www.udemy.com/certificate/UC-a861874d-cfaa-4f27-a49a-77794a2d7bc3/) | BloomTrading | May 21, 2025 |
+| [The Complete Foundation Stock Trading Course](https://www.udemy.com/certificate/UC-582241d7-7cd4-491b-aa87-1deb9973f85d/) | BloomTrading | March 27, 2025 |
+
+| Course | Provider | Date |
+|:-|:-|:-|
+| [Oracle Cloud Data Management Foundation Certificate Associate](https://drive.google.com/file/d/1BgMwlo6hRPSgL5v5StxWLtQTaOfosuOq/view?usp=sharing) | Oracle | November 28, 2022 |
+| [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5A649418D224767DBBCB797B97BF827993A75A77A756E018154021029B15F12) | Oracle | November 22, 2022 |
+
 
 </div>
 
