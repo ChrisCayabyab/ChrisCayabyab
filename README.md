@@ -98,8 +98,9 @@
 
 | Course | Provider | Date |
 |:-|:-|:-|
-| [Deploying And Maintaining in Power BI]() | DataCamp | July 9, 2025 |
-| [Data Connections in Power BI]() | DataCamp | July 8, 2025 |
+| [Data Analyst in Power BI](https://www.datacamp.com/statement-of-accomplishment/track/bed0e02d05bdb23c71d993949ae1d7e206868520?raw=1) | DataCamp | July 9, 2025 |
+| [Deploying And Maintaining in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/310b75b64a2113706185223904de9cdd5b95802e?raw=1) | DataCamp | July 9, 2025 |
+| [Data Connections in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/0c623b25108e997b5ec9e1ce1d67d72426f9b05d?raw=1) | DataCamp | July 8, 2025 |
 | [Report Design in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/2e179c2939ea850fdc02b71b50b763739bf0e737?raw=1) | DataCamp | July 7, 2025 |
 | [Reports in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/4f1fb5f045c7ccaecba78e57a0f37dcdadcd4f14?raw=1) | DataCamp | July 4, 2025 |
 | [Trend Analysis in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/1f00eec4ec044c9f413ddfaca892a2609ba049f3?raw=1) | DataCamp | July 3, 2025 |
