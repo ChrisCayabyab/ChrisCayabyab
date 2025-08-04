@@ -40,8 +40,9 @@
 
 |CERTIFICATE|PROVIDER|DATE|
 |:--------------------------------------------------:|:--------------------:|:--------------------:|
-|[Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)|DataCamp|April 24,2025, 2025|
-|[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)|DataCamp|April 18,2025, 2025|
+|[Associate Data Analyst[SQL]](https://www.datacamp.com/certificate/DAA0018735815219)|DataCamp|July 31, 2025|
+|[Data Literacy](https://www.datacamp.com/skill-verification/DL0030812052096)|DataCamp|April 24, 2025|
+|[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027968128989)|DataCamp|April 18, 2025|
 
 </div>
 <div align="center">
