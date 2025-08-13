@@ -69,6 +69,8 @@
 | [Introduction to Data Literacy](https://www.datacamp.com/statement-of-accomplishment/course/c3a8e451977b557466e98836c344e11a132ac4ea?raw=1) | DataCamp | April 22, 2025 |
 | [Introduction to Data](https://www.datacamp.com/statement-of-accomplishment/course/b39906e0e92a8ebf23248a00d7ccbff8d88ed29f?raw=1) | DataCamp | April 21, 2025 |
 | [Communicating Data Insights](https://www.datacamp.com/statement-of-accomplishment/course/660494645ce8bc47ff458e7a81c289ba38223b34?raw=1) | DataCamp | April 21, 2025 |
+| [DATA STORYTELLING](https://www.datacamp.com/statement-of-accomplishment/track/63195413b84439b183f0c4c61d451548caebee99?raw=1) | DataCamp | August 13, 2025 |
+
 
 | Course | Provider | Date |
 |:-|:-|:-|
