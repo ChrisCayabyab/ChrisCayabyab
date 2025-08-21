@@ -86,6 +86,7 @@
 | Course | Provider | Date |
 |:-|:-|:-|
 | [SQL ASSOCIATE SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/f786c867a29f496869ca4869d3c9ed08593f68bf?raw=1) | DataCamp | April 9, 2025 |
+| [Analyzing Business Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/921316052f91390d1868ea8cbaf9060842494013?raw=1) | DataCamp | August 21, 2025 |
 | [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/16561579d69c78415431697ae9939500d6012ad7) | DataCamp | April 9, 2025 |
 | [Data Communication Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab60c562bdca0e2d61e365afb5672dc36f38a137) | DataCamp | April 8, 2025 |
 | [Data-Driven Decision Making in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/7013410a72697d83ce8e3408222065d4a46484f0) | DataCamp | April 4, 2025 |
