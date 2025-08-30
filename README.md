@@ -172,7 +172,7 @@
 
 <h1 align="center">🎓 UNIVERSITY PROJECTS AND SEMINARS</h1>
 
-<img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="45%"/>
+<img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1"/>
 
 <h2 align="center">
   <a href="https://github.com/ChrisCayabyab/UNI_PROJECTS/blob/main/README.md" style="font-size:20px;">
