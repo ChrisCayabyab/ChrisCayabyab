@@ -85,6 +85,9 @@
 
 | Course | Provider | Date |
 |:-|:-|:-|
+| [SQL FOR BUSINESS ANALYTICS](https://www.datacamp.com/completed/statement-of-accomplishment/track/e7cd424eca16eceb59d88f847ce182ca2d0cb048) | DataCamp | September 1, 2025 |
+| [Analyzing Business Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/87a9d72777fdcdb3ddd3b0779f7f3df28e5080f9) | DataCamp | September 1, 2025 |
+| [Reporting in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/d35f58efd047ed689343f51f816a11aec19651a1) | DataCamp | September 1, 2025 |
 | [SQL ASSOCIATE SKILL TRACK COMPLETION](https://www.datacamp.com/statement-of-accomplishment/track/f786c867a29f496869ca4869d3c9ed08593f68bf?raw=1) | DataCamp | April 9, 2025 |
 | [Analyzing Business Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/921316052f91390d1868ea8cbaf9060842494013?raw=1) | DataCamp | August 21, 2025 |
 | [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/16561579d69c78415431697ae9939500d6012ad7) | DataCamp | April 9, 2025 |
